@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Song One",
+        "artist": "Artist One",
+        "year": 2020,
+        "genre": "Pop",
+        "filePath": "src/main/resources/audio/song_one.mp3"
+    },
+    {
+        "title": "Song Two",
+        "artist": "Artist Two",
+        "year": 2019,
+        "genre": "Rock",
+        "filePath": "src/main/resources/audio/song_two.mp3"
+    },
+    {
+        "title": "Song Three",
+        "artist": "Artist Three",
+        "year": 2021,
+        "genre": "Jazz",
+        "filePath": "src/main/resources/audio/song_three.mp3"
+    },
+    {
+        "title": "Song Four",
+        "artist": "Artist Four",
+        "year": 2018,
+        "genre": "Hip-Hop",
+        "filePath": "src/main/resources/audio/song_four.mp3"
+    },
+    {
+        "title": "Song Five",
+        "artist": "Artist Five",
+        "year": 2020,
+        "genre": "Classical",
+        "filePath": "src/main/resources/audio/song_five.mp3"
+    },
+    {
+        "title": "Song Six",
+        "artist": "Artist Six",
+        "year": 2022,
+        "genre": "Electronic",
+        "filePath": "src/main/resources/audio/song_six.mp3"
+    },
+    {
+        "title": "Song Seven",
+        "artist": "Artist Seven",
+        "year": 2017,
+        "genre": "Country",
+        "filePath": "src/main/resources/audio/song_seven.mp3"
+    },
+    {
+        "title": "Song Eight",
+        "artist": "Artist Eight",
+        "year": 2016,
+        "genre": "Blues",
+        "filePath": "src/main/resources/audio/song_eight.mp3"
+    },
+    {
+        "title": "Song Nine",
+        "artist": "Artist Nine",
+        "year": 2015,
+        "genre": "Reggae",
+        "filePath": "src/main/resources/audio/song_nine.mp3"
+    },
+    {
+        "title": "Song Ten",
+        "artist": "Artist Ten",
+        "year": 2021,
+        "genre": "Soul",
+        "filePath": "src/main/resources/audio/song_ten.mp3"
+    }
+]
